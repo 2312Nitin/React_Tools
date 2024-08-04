@@ -48,9 +48,9 @@ class Footer extends React.Component {
 					<span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
 						© {this.props.var}{" "}
 						<a
-							href="https://alvalens.my.id"
+							href="https://Nitin.my.id"
 							className="hover:underline">
-							Alvalens
+							Nitin
 						</a>
 						. All Rights Reserved.
 					</span>

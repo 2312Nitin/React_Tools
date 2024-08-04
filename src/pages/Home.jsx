@@ -133,31 +133,31 @@ function Home() {
 						{/* email */}
 						<Button
 							icon="fa-solid fa-envelope"
-							link="mailto:Alvalen.shafel04@gmail.com?subject=Hello&body=Hello">
+							link="mailto:nitinrao112001@gmail.com?subject=Hello&body=Hello">
 							Email
 						</Button>
 						{/* github */}
 						<Button
 							icon="fa-brands fa-github"
-							link="https://github.com/Alvalens">
+							link="https://github.com/2312Nitin">
 							Github
 						</Button>
 						{/* linkedin */}
 						<Button
 							icon="fa-brands fa-linkedin"
-							link="https://www.linkedin.com/in/alvalen-shafel-8a081a254/">
+							link="https://www.linkedin.com/in/nitin-kumar-8162541b5/">
 							Linkedin
 						</Button>
 						{/* instagram */}
 						<Button
 							icon="fa-brands fa-instagram"
-							link="https://instagram.com/alvalens_">
+							link="https://www.instagram.com/nitinyadav2312?igsh=MTN4cjYwcjJkaWhrMg%3D%3D&utm_source=qr">
 							Instagram
 						</Button>
 						{/* discord */}
 						<Button
 							icon="fa-brands fa-discord"
-							link="https://discordapp.com/users/bloody#6118">
+							link="https://discord.gg/aUrNhsJ5">
 							Discord
 						</Button>
 					</div>
@@ -179,19 +179,17 @@ function Home() {
 								</svg>
 								<blockquote>
 									<p className="text-2xl italic font-medium text-gray-500 dark:text-white">
-										"Whether a fish lives in a clear stream
-										or a water ditch, so long as it
-										continues swimming forward, it will grow
-										up beautifully."
+										"All of us do not have equal talent. But ,
+										 all of us have an equal opportunity to develop our talents.."
 									</p>
 								</blockquote>
 								<figcaption className="flex items-center justify-center mt-6 space-x-3">
 									<div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
 										<cite className="pr-3 font-medium text-gray-900 dark:text-white">
-											Koro-sensei
+										Dr APJ Abdul Kalam
 										</cite>
 										<cite className="pl-3 text-sm text-gray-500 dark:text-gray-400">
-											Assassination Classroom
+										Missile Man of India
 										</cite>
 									</div>
 								</figcaption>

@@ -31,7 +31,7 @@ function About() {
 						visit my github page.
 					</p>
 					<div className="flex justify-center items-center pt-5">
-						<a href="https://github.com/Alvalens/react-tools">
+						<a href="https://github.com/2312Nitin">
 							<button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-md transition-all">
 								<i className="fa-brands fa-github text-white fa-2x"></i>
 							</button>
